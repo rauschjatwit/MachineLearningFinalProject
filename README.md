@@ -11,6 +11,7 @@ Shown below is a snippet of the code used to print the dataset used and to check
 
 ![image](https://github.com/rauschjatwit/MachineLearningFinalProject/assets/71090844/443178fa-d7b3-452e-9588-821609f84065)
 
+Shown above, for this data set there are no missing values. 
 # K-NN
 # PCA:
 # K-Means:
